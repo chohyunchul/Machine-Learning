@@ -107,3 +107,8 @@ human_activity/
 train_santander.csv
 
 model/
+
+labeledTrainData.tsv
+Online Retail.xlsx
+testData.tsv
+unlabeledTrainData.tsv
